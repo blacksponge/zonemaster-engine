@@ -91,7 +91,7 @@ install from CPAN instead, follow the steps for Ubuntu.
    sudo sh setup.sh
    ```
 
-3) Install Zonemaster CLI
+3) Install Zonemaster Engine
    ```sh
    sudo apt install libzonemaster-engine-perl
    ```
